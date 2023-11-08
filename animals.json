@@ -1,0 +1,156 @@
+{
+    "animals": [
+        {
+            "id": 1,
+            "name": "Lion",
+            "image_url": "./images/elephant.jpg",
+            "continent": "Africa",
+            "habitat": "Grasslands",
+            "diet": "Carnivore"
+        },
+        {
+            "id": 2,
+            "name": "Tiger",
+            "image_url": "./images/tiger.jpg",
+            "continent": "Asia",
+            "habitat": "Forests",
+            "diet": "Carnivore"
+        },
+        {
+            "id": 3,
+            "name": "Elephant",
+            "image_url": "./images/elephant.jpg",
+            "continent": "Africa, Asia",
+            "habitat": "Savanna, Forests",
+            "diet": "Herbivore"
+        },
+        {
+            "id": 4,
+            "name": "Giraffe",
+            "image_url": "./images/giraffe.jpg",
+            "continent": "Africa",
+            "habitat": "Savanna",
+            "diet": "Herbivore"
+        },
+        {
+            "id": 5,
+            "name": "Hippopotamus",
+            "image_url": "./images/hippo.jpg",
+            "continent": "Africa",
+            "habitat": "Rivers, Lakes",
+            "diet": "Herbivore"
+        },
+        {
+            "id": 6,
+            "name": "Zebra",
+            "image_url": "./images/zebra.jpg",
+            "continent": "Africa",
+            "habitat": "Grasslands",
+            "diet": "Herbivore"
+        },
+        {
+            "id": 7,
+            "name": "Gorilla",
+            "image_url": "./images/gorilla.jpg",
+            "continent": "Africa",
+            "habitat": "Forests",
+            "diet": "Herbivore"
+        },
+        {
+            "id": 8,
+            "name": "Panda",
+            "image_url": "./images/panda.jpg",
+            "continent": "China",
+            "habitat": "Mountains",
+            "diet": "Herbivore"
+        },
+        {
+            "id": 9,
+            "name": "Kangaroo",
+            "image_url": "./images/kangaroo.jpg",
+            "continent": "Australia",
+            "habitat": "Grasslands",
+            "diet": "Herbivore"
+        },
+        {
+            "id": 10,
+            "name": "Cheetah",
+            "image_url": "./images/cheetah.jpg",
+            "continent": "Africa",
+            "habitat": "Grasslands",
+            "diet": "Carnivore"
+        },
+        {
+            "id": 11,
+            "name": "Rhinoceros",
+            "image_url": "./images/rhino.jpg",
+            "continent": "Africa, Asia",
+            "habitat": "Grasslands, Forests",
+            "diet": "Herbivore"
+        },
+        {
+            "id": 12,
+            "name": "Wildebeest",
+            "image_url": "./images/wildebeest.jpg",
+            "continent": "Africa",
+            "habitat": "Grasslands",
+            "diet": "Herbivore"
+        },
+        {
+            "id": 13,
+            "name": "Wolf",
+            "image_url": "./images/wolf.jpg",
+            "continent": "North America, Europe, Asia",
+            "habitat": "Forests, Grasslands",
+            "diet": "Carnivore"
+        },
+        {
+            "id": 14,
+            "name": "Coyote",
+            "image_url": "./images/coyote.jpg",
+            "continent": "North America",
+            "habitat": "Grasslands, Deserts",
+            "diet": "Omnivore"
+        },
+        {
+            "id": 15,
+            "name": "Bald Eagle",
+            "image_url": "./images/eagle.jpg",
+            "continent": "North America",
+            "habitat": "Forests, Near Water",
+            "diet": "Carnivore"
+        },
+        {
+            "id": 16,
+            "name": "Polar Bear",
+            "image_url": "./images/polar-bear.jpg",
+            "continent": "Arctic",
+            "habitat": "Sea Ice",
+            "diet": "Carnivore"
+        },
+        {
+            "id": 17,
+            "name": "Fox",
+            "image_url": "./images/fox.jpg",
+            "continent": "North America, Europe, Asia",
+            "habitat": "Forests, Grasslands",
+            "diet": "Omnivore"
+        },
+        {
+            "id": 18,
+            "name": "Squirrel",
+            "image_url": "./images/squirrel.jpg",
+            "continent": "Worldwide",
+            "habitat": "Forests, Urban Areas",
+            "diet": "Omnivore"
+        },
+        {
+            "id": 19,
+            "name": "Deer",
+            "image_url": "./images/deer.jpg",
+            "continent": "North America, Europe, Asia",
+            "habitat": "Forests, Grasslands",
+            "diet": "Herbivore"
+        }
+    ]
+}
